@@ -29,7 +29,7 @@
 const raygums = {
     name: "Muhammad Rayhan Gumay",
     location: "Indonesia",
-    language: ["PHP", "Javascript", "React", "Python", "Java", "HTML", "CSS", "C++"]
+    language: ["PHP", "Javascript", "React", "Python", "Java", "HTML", "CSS", "C++"],
     currentFocus: "Upgrading myself",
     learning: ["Software Development", "AI", "Cysec"],
     hobbies: ["Coding", "Coding#2", "Music"],
@@ -75,12 +75,18 @@ const raygums = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=raygums&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raygums&layout=compact&hide_border=true&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <a href="https://github.com/raygums">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raygums&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raygums&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=raygums&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=raygums&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
@@ -88,7 +94,9 @@ const raygums = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raygums&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <a href="https://github.com/raygums">
+    <img src="https://github-profile-trophy.vercel.app/?username=raygums&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 ---
