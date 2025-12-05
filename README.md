@@ -84,9 +84,7 @@ const raygums = {
 <br/>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=raygums&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raygums&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
