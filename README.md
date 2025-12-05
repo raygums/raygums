@@ -75,26 +75,18 @@ const raygums = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=raygums&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=raygums&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" media="(prefers-color-scheme: light)" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raygums&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raygums&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raygums&layout=compact&langs_count=8&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raygums&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  </picture>
+  <a href="https://github.com/raygums">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raygums&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raygums&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=raygums&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=raygums&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raygums&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </picture>
+  <a href="https://github.com/raygums">
+    <img src="https://streak-stats.demolab.com?user=raygums&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  </a>
 </div>
 
 ---
@@ -102,11 +94,9 @@ const raygums = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <picture>
-    <source srcset="https://github-profile-trophy.vercel.app/?username=raygums&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-profile-trophy.vercel.app/?username=raygums&theme=flat&no-frame=true&no-bg=false&margin-w=4&column=7" media="(prefers-color-scheme: light)" />
+  <a href="https://github.com/raygums">
     <img src="https://github-profile-trophy.vercel.app/?username=raygums&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-  </picture>
+  </a>
 </div>
 
 ---
