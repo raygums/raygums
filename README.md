@@ -25,16 +25,6 @@
 
 ## 🚀 About Me
 
-```javascript
-const raygums = {
-    name: "Muhammad Rayhan Gumay",
-    location: "Indonesia",
-    language: ["PHP", "Javascript", "React", "Python", "Java", "HTML", "CSS", "C++"],
-    currentFocus: "Upgrading myself",
-    learning: ["Software Development", "AI", "Cysec"],
-    hobbies: ["Coding", "Coding#2", "Music"],
-};
-```
 
 ---
 
