@@ -4,6 +4,7 @@
 </div>
 
 <!-- Typing SVG -->
+
 <p align="center">
   <a href="https://github.com/raygums">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%93%9A;Building+Amazing+Projects+%F0%9F%9A%80" alt="Typing SVG" />
